@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/setup_eq_sound_left_p1" android:state_pressed="true"/>
+    <item android:drawable="@drawable/setup_eq_sound_left_n1"></item>
+
+</selector>

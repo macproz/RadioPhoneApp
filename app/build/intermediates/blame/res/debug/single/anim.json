@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/anim/all_volume_ctl_hide.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/anim/all_volume_ctl_hide.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/anim/loading.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/anim/loading.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/anim/all_volume_ctl_show.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/anim/all_volume_ctl_show.xml"
+    }
+]

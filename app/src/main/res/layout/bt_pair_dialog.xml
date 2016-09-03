@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/loading_dialog_width"
+    android:layout_height="@dimen/loading_dialog_hight"
+    android:orientation="vertical"
+    android:background="@drawable/tanchukuang" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/pair_msg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/loading_dialog_text_size" 
+            android:text="pair_msg"/>
+
+        <TextView
+            android:id="@+id/pair_farm_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:scrollHorizontally="true"  
+            android:lines="1"
+        	android:ellipsize="end"  
+        	android:focusableInTouchMode="true" 
+        	android:textColor="@color/freq_color"
+            android:textSize="@dimen/loading_dialog_text_size" 
+            android:text="pair_farm_msg"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pair_bottom_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:background="@drawable/transparent"
+         >
+        <Button
+            android:id="@+id/pair_yes"
+            style="@style/pair_button_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bt_pair_left_btn"
+
+            android:textSize="@dimen/loading_dialog_text_size"
+             />
+
+        <Button
+            android:id="@+id/pair_no"
+            style="@style/pair_button_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bt_pair_right_btn"
+
+            android:textSize="@dimen/loading_dialog_text_size" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,364 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_all"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    android:paddingLeft="30dp" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp" >
+
+        <!-- ++++++++++++++++++低音高音设置+++++++++++++++++++++++++++=== -->
+
+        <FrameLayout
+            android:id="@+id/low_high_pitch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="10dp"
+            android:visibility="visible" >
+
+            <AbsoluteLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <!-- 低音 -->
+
+                <AbsoluteLayout
+                    android:layout_width="123dp"
+                    android:layout_height="280dp"
+                    android:layout_x="80dp"
+                    android:layout_y="-27dp" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_x="0dp"
+                        android:layout_y="23dp"
+                        android:gravity="center"
+                        android:text="@string/sound_bass"
+                        android:textColor="@android:color/white"
+                        android:textSize="20sp" />
+
+                    <View
+                        android:layout_width="122dp"
+                        android:layout_height="100dp"
+                        android:layout_x="4dp"
+                        android:layout_y="100dp"
+                        android:background="@drawable/setup_eq_jhq_dzg_bj0" />
+
+                    <Button
+                        android:id="@+id/eq_bass_add"
+                        android:layout_width="fill_parent"
+                        android:layout_height="60dp"
+                        android:layout_x="0dp"
+                        android:layout_y="44dp"
+                        android:background="@drawable/eq_btn_add" />
+
+                    <Button
+                        android:id="@+id/eq_bass_sub"
+                        android:layout_width="fill_parent"
+                        android:layout_height="60dp"
+                        android:layout_x="0px"
+                        android:layout_y="199dp"
+                        android:background="@drawable/eq_btn_sub" />
+
+                    <com.yf.phoneapp.eqsetting.VolumeBar
+                        android:id="@+id/eq_bass_volume"
+                        android:layout_width="fill_parent"
+                        android:layout_height="80dp"
+                        android:layout_x="30dp"
+                        android:layout_y="105dp" />
+                </AbsoluteLayout>
+
+                <!-- 中音 -->
+
+                <AbsoluteLayout
+                    android:layout_width="123dp"
+                    android:layout_height="280dp"
+                    android:layout_x="230dp"
+                    android:layout_y="-27px"
+                    android:visibility="visible" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_x="0dp"
+                        android:layout_y="5dp"
+                        android:gravity="center"
+                        android:text="@string/sound_middle"
+                        android:textColor="@android:color/white"
+                        android:textSize="20sp"
+                        android:visibility="visible" />
+
+                    <View
+                        android:layout_width="122dp"
+                        android:layout_height="100dp"
+                        android:layout_x="0dp"
+                        android:layout_y="80dp"
+                        android:background="@drawable/setup_eq_jhq_dzg_bj0"
+                        android:visibility="visible" />
+
+                    <Button
+                        android:id="@+id/eq_middle_add"
+                        android:layout_width="fill_parent"
+                        android:layout_height="60dp"
+                        android:layout_x="0dp"
+                        android:layout_y="25dp"
+                        android:background="@drawable/eq_btn_add"
+                        android:visibility="visible" />
+
+                    <Button
+                        android:id="@+id/eq_middle_sub"
+                        android:layout_width="fill_parent"
+                        android:layout_height="60dp"
+                        android:layout_x="0dp"
+                        android:layout_y="178dp"
+                        android:background="@drawable/eq_btn_sub"
+                        android:visibility="visible" />
+
+                    <com.yf.phoneapp.eqsetting.VolumeBar
+                        android:id="@+id/eq_middle_volume"
+                        android:layout_width="fill_parent"
+                        android:layout_height="80dp"
+                        android:layout_x="30dp"
+                        android:layout_y="80dp"
+                         />
+                </AbsoluteLayout>
+                <!-- 高音 -->
+
+                <AbsoluteLayout
+                    android:layout_width="123dp"
+                    android:layout_height="280dp"
+                    android:layout_x="380dp"
+                    android:layout_y="-6dp" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_x="0dp"
+                        android:layout_y="5dp"
+                        android:gravity="center"
+                        android:text="@string/sound_treble"
+                        android:textColor="@android:color/white"
+                        android:textSize="20sp" />
+
+                    <View
+                        android:layout_width="122dp"
+                        android:layout_height="100dp"
+                        android:layout_x="0dp"
+                        android:layout_y="80dp"
+                        android:background="@drawable/setup_eq_jhq_dzg_bj0" />
+
+                    <Button
+                        android:id="@+id/eq_treble_add"
+                        android:layout_width="fill_parent"
+                        android:layout_height="60dp"
+                        android:layout_x="0dp"
+                        android:layout_y="25dp"
+                        android:background="@drawable/eq_btn_add" />
+
+                    <Button
+                        android:id="@+id/eq_treble_sub"
+                        android:layout_width="fill_parent"
+                        android:layout_height="60dp"
+                        android:layout_x="0dp"
+                        android:layout_y="178dp"
+                        android:background="@drawable/eq_btn_sub" />
+
+                    <com.yf.phoneapp.eqsetting.VolumeBar
+                        android:id="@+id/eq_treble_volume"
+                        android:layout_width="fill_parent"
+                        android:layout_height="80dp"
+                        android:layout_x="30dp"
+                        android:layout_y="80dp"
+                        />
+                </AbsoluteLayout>
+                <!-- 自定义 -->
+
+            </AbsoluteLayout>
+
+            <Button
+                android:id="@+id/eq_btn_reset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="510dp"
+                android:layout_marginTop="90dp"
+                android:background="@drawable/eq_btn_default"
+                android:text="@string/sound_default"
+                android:textColor="@drawable/color_text"
+                android:textSize="20sp" />
+
+        </FrameLayout>
+
+        <AbsoluteLayout
+            android:id="@+id/eq_content_balance"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:visibility="gone" >
+
+            <!--<View-->
+                <!--android:id="@+id/low"-->
+                <!--android:layout_width="292dp"-->
+                <!--android:layout_height="300dp"-->
+                <!--android:layout_x="138dp"-->
+                <!--android:layout_y="-10dp"-->
+                <!--android:background="@drawable/setup_eq_sound_bj" />-->
+
+            <View
+                android:id="@+id/high"
+                android:layout_width="292dp"
+                android:layout_height="300dp"
+                android:layout_x="140dp"
+                android:layout_y="-40dp"
+                android:background="@drawable/setup_eq_sound_bj2"
+                android:visibility="visible" />
+
+            <!--<com.yf.phoneapp.eqsetting.GPointBar-->
+                <!--android:id="@+id/eq_gpoint_bar"-->
+                <!--android:layout_width="220dp"-->
+                <!--android:layout_height="64dp"-->
+                <!--android:layout_x="172dp"-->
+                <!--android:layout_y="135dp" />-->
+
+            <com.yf.phoneapp.eqsetting.GPointBar
+                android:id="@+id/eq_gpoint_bar2"
+                android:layout_width="236dp"
+                android:layout_height="205dp"
+                android:layout_x="169dp"
+                android:layout_y="18dp"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/eq_btn_gpoint_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="253dp"
+                android:layout_y="0dp"
+                android:background="@drawable/eq_btn_up"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/eq_btn_gpoint_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="253dp"
+                android:layout_y="160dp"
+                android:background="@drawable/eq_btn_down"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/eq_btn_gpoint_sub1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="100dp"
+                android:layout_y="83dp"
+                android:background="@drawable/eq_btn_left1"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/eq_btn_gpoint_add1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="410dp"
+                android:layout_y="83dp"
+                android:background="@drawable/eq_btn_right1"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/eq_btn_gpoint_sub"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="110dp"
+                android:layout_y="57dp"
+                android:background="@drawable/eq_btn_left"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/eq_btn_gpoint_add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="400dp"
+                android:layout_y="57dp"
+                android:background="@drawable/eq_btn_right"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/eq_tv_gpoint_text_x"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="484dp"
+                android:layout_y="0dp"
+                android:text="左右:0"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/eq_tv_gpoint_text_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="484dp"
+                android:layout_y="25dp"
+                android:text="上下:0"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+        </AbsoluteLayout>
+    </FrameLayout>
+
+
+
+
+    <FrameLayout
+        android:layout_width="530dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        >
+        <LinearLayout style="@style/common_horizontal_division_line_style" />
+
+        <LinearLayout
+            android:layout_width="400dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="60dp"
+            android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/eq_btn_bottom_left"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/eq_end_jhq"
+            android:gravity="center_horizontal|bottom"
+            android:paddingBottom="4dp"
+            android:text="@string/sound_jhq"
+            android:textColor="@drawable/color_text"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/eq_btn_bottom_right"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/eq_end_zyph"
+            android:gravity="center_horizontal|bottom"
+            android:paddingBottom="4dp"
+            android:text="@string/sound_zyph"
+            android:textColor="@drawable/color_text"
+            android:textSize="20sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/soundcfg_back"
+            android:layout_width="100dp"
+            android:layout_height="93dp"
+            android:background="@drawable/bt_bluetooth_back"
+            android:layout_marginLeft="-17dp"
+            android:layout_marginTop="-6dp"
+            />
+    </FrameLayout>
+</LinearLayout>

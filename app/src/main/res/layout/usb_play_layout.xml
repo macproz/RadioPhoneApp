@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yftech="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+
+    <LinearLayout 
+        android:id="@+id/usb_setting_control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/radio_setting_padding_top"
+        android:layout_marginLeft="@dimen/usb_setting_layout_padding_left"
+        >
+        
+        <Button 
+            android:id="@+id/usb_volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/volume_setting"
+            />
+        <Button 
+            android:id="@+id/usb_favor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/usb_favor"
+            android:layout_marginLeft="@dimen/usb_setting_button_padding_left"
+            />
+        <Button 
+            android:id="@+id/usb_random"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/usb_random"
+            android:layout_marginLeft="@dimen/usb_setting_button_padding_left"
+            />
+        <Button 
+            android:id="@+id/usb_repeat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/usb_repeat"
+            android:layout_marginLeft="@dimen/usb_setting_button_padding_left"
+            />
+        <Button 
+            android:id="@+id/usb_eq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/eq_setting"
+            android:layout_marginLeft="@dimen/usb_setting_button_padding_left"
+            />
+        <Button 
+            android:id="@+id/usb_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/system_setting"
+            android:layout_marginLeft="@dimen/usb_setting_button_padding_left"
+            />
+    </LinearLayout>
+    
+
+    <LinearLayout 
+        android:id="@+id/seek_control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/usb_control"
+		android:layout_margin="@dimen/usb_seek_control_padding_top"        
+        android:background="@color/transparent"
+        >
+
+      <com.yf.phoneapp.ui.MusicSeekBar
+          android:id="@+id/id_seekbar_music"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          yftech:bar_background="@drawable/jindutiao"
+          yftech:bar_progress_drawable="@drawable/jindutiao_h"
+          yftech:bar_thumb="@drawable/jindutiao_yuandian" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/usb_show_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/usb_time_text_padding_top"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/usb_currtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/usb_currtime_text_padding_left"
+            android:textSize="@dimen/usb_album_author_text_size"
+            android:textColor="@android:color/holo_orange_light"
+            />
+
+        <TextView
+            android:id="@+id/usb_alltime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/usb_alltime_text_padding_left"
+            android:textSize="@dimen/usb_album_author_text_size"
+            android:textColor="@android:color/holo_orange_light"
+            />
+    </LinearLayout>
+    
+     
+
+      <LinearLayout 
+          android:id="@+id/usb_control"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:layout_centerHorizontal="true"
+          android:layout_alignParentBottom="true"
+          android:layout_marginBottom="@dimen/padding_bottom"
+          android:background="@drawable/bg_down"
+          >
+         
+       <Button 
+            android:id="@+id/usb_pre"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:layout_marginLeft="@dimen/usb_pre_bt_padding_left"
+            android:background="@drawable/bt_fm_pre"
+            />
+       
+       <Button 
+            android:id="@+id/usb_play_pause"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:layout_marginLeft="@dimen/usb_play_pause_padding_left"
+            android:background="@drawable/bt_usb_play"
+            />
+       
+        <Button 
+            android:id="@+id/usb_next"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:layout_marginLeft="@dimen/usb_play_pause_padding_left"
+            android:layout_marginRight="@dimen/usb_next_bt_padding_right"
+            android:background="@drawable/bt_fm_next"
+            />
+          
+      </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/usb_id3_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/usb_setting_control"
+        android:layout_marginLeft="@dimen/usb_id3_padding_left"
+        android:layout_marginTop="@dimen/usb_id3_padding_top"
+        >
+
+        <com.yf.phoneapp.ui.AlbumImageView
+            android:id="@+id/albumimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:id="@+id/album"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/albumimage"
+            android:layout_marginLeft="@dimen/usb_id3_text_padding_left"
+            android:layout_marginTop="@dimen/usb_id3_album_text_padding_top"
+            android:textSize="@dimen/usb_album_author_text_size"
+            android:textColor="@color/usb_ablum_author"
+            android:text="刘德华专辑"
+            />
+
+
+
+        <com.yf.phoneapp.ui.ScrollTextView
+            android:id="@+id/title"
+            android:layout_width="@dimen/usb_id3_title_text_width"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/album"
+            android:layout_toRightOf="@+id/musicIndex"
+            android:layout_marginTop="@dimen/usb_id3_title_text_padding_top"
+            android:paddingLeft="10dp"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="left|center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:text="一起走过的日子"
+            android:textSize="@dimen/usb_title_text_size"
+            android:textColor="@android:color/holo_blue_bright"
+            />
+
+        <TextView
+            android:id="@+id/author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"
+            android:layout_toRightOf="@+id/albumimage"
+            android:layout_marginLeft="@dimen/usb_id3_text_padding_left"
+            android:layout_marginTop="@dimen/usb_id3_title_text_padding_top"
+            android:textSize="@dimen/usb_album_author_text_size"
+            android:textColor="@color/usb_ablum_author"
+            android:text="刘德华"
+            />
+
+        <TextView
+            android:id="@+id/musicIndex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/usb_index_text_padding_left"
+            android:layout_marginTop="@dimen/usb_index_text_padding_top"
+            android:textSize="@dimen/usb_title_text_size"
+            android:textColor="@android:color/holo_blue_bright"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/usb_contrl_volume"
+        android:layout_width="1499px"
+        android:layout_height="200px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="3px"
+        android:background="@drawable/voice_tiao"
+        android:visibility="gone" >
+
+        <Button
+            android:layout_centerVertical="true"
+            android:id="@+id/all_volume_sub_fm"
+            android:layout_width="176px"
+            android:layout_height="148px"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/all_volume_sub" />
+
+        <com.yf.phoneapp.ui.AllVolumeView
+            android:id="@+id/id_volume_view"
+            android:layout_width="904px"
+            android:layout_height="200px"
+            android:layout_marginLeft="61dp"
+            android:layout_marginTop="0dp" />
+
+        <TextView
+            android:id="@+id/id_volume_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="170dp"
+            android:text="媒体音量"
+            android:textColor="#ffffff"
+            android:textSize="45px"
+            android:layout_marginTop="10dp"
+            android:visibility="visible" />
+
+        <Button
+
+            android:layout_marginLeft="370dp"
+            android:layout_centerVertical="true"
+            android:id="@+id/all_volume_add_fm"
+            android:layout_width="176px"
+            android:layout_height="148px"
+            android:background="@drawable/all_volume_add" />
+
+        <Button
+
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/all_volume_mute"
+            android:layout_width="176px"
+            android:layout_height="148px"
+            android:background="@drawable/voice_jingyin" />
+    </RelativeLayout>
+
+</RelativeLayout>

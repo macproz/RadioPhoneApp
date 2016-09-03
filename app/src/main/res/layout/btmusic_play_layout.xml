@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <RelativeLayout 
+        android:id="@+id/btmusic_id3_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/usb_id3_padding_left"
+        android:layout_marginTop="@dimen/btmusic_id3_album_padding_top"
+        >
+        
+        <com.yf.phoneapp.ui.AlbumImageView
+            android:id="@+id/btmusic_albumimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        
+        <TextView
+            android:id="@+id/btmusic_album"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:layout_toRightOf="@+id/btmusic_albumimage"
+            android:layout_marginLeft="@dimen/usb_id3_text_padding_left"
+            android:layout_marginTop="@dimen/usb_id3_album_text_padding_top"
+            android:textSize="@dimen/usb_album_author_text_size"
+            android:textColor="@color/usb_ablum_author"
+            android:text="刘德华蓝牙专辑" 
+            />
+        
+         <com.yf.phoneapp.ui.ScrollTextView
+            android:id="@+id/btmusic_title"
+            android:layout_width="@dimen/usb_id3_title_text_width"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/bt_id3_title_text_padding_left"
+            android:layout_below="@+id/btmusic_album"
+            android:layout_toRightOf="@+id/btmusic_index"
+            android:layout_marginTop="@dimen/usb_id3_title_text_padding_top"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="left|center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:text="一起走过的日子"
+            android:textSize="@dimen/usb_title_text_size"
+            android:textColor="@android:color/holo_blue_bright"
+           />
+         
+         <TextView 
+             android:id="@+id/btmusic_author"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:singleLine="true"
+             android:ellipsize="end"
+             android:layout_below="@+id/btmusic_title"
+             android:layout_alignLeft="@+id/btmusic_album"
+             android:paddingLeft="0dp"
+             android:layout_marginTop="@dimen/usb_id3_title_text_padding_top"
+             android:textSize="@dimen/usb_album_author_text_size"
+             android:textColor="@color/usb_ablum_author"
+             android:text="刘德华" 
+             />
+
+        <TextView
+            android:id="@+id/btmusic_index"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bt_id3_index_text_padding_left"
+            android:layout_toRightOf="@+id/btmusic_albumimage"
+            android:layout_marginTop="@dimen/usb_index_text_padding_top"
+            android:textSize="@dimen/usb_title_text_size"
+
+            android:textColor="@android:color/holo_blue_bright"/>
+    </RelativeLayout>
+     
+
+      <LinearLayout
+          android:id="@+id/btmusic_control"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:layout_centerHorizontal="true"
+          android:layout_alignParentBottom="true"
+          android:layout_marginBottom="@dimen/padding_bottom"
+          android:background="@drawable/bg_down"
+          >
+
+       <Button
+            android:id="@+id/btmusic_pre"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:layout_marginLeft="@dimen/usb_pre_bt_padding_left"
+            android:background="@drawable/bt_fm_pre"
+            />
+
+       <Button
+            android:id="@+id/btmusic_play_pause"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:layout_marginLeft="@dimen/usb_play_pause_padding_left"
+            android:background="@drawable/bt_usb_play"
+            />
+
+        <Button
+            android:id="@+id/btmusic_next"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:layout_marginLeft="@dimen/usb_play_pause_padding_left"
+            android:layout_marginRight="@dimen/usb_next_bt_padding_right"
+            android:background="@drawable/bt_fm_next"
+            />
+
+      </LinearLayout>
+    
+</RelativeLayout>

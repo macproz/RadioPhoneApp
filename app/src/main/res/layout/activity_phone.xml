@@ -1,0 +1,113 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bg_all" >
+    
+    
+    <LinearLayout 
+        android:id="@+id/right_slide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/padding_status_bar"
+        android:layout_marginLeft="@dimen/padding_left_phone"
+        android:background="@drawable/transparent"
+        android:orientation="vertical"
+        >
+        
+        <Button
+            android:id="@+id/bt_dial_panel"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            style="@style/source_button_text"
+            android:text="@string/dial_panel"
+            android:background="@drawable/dial_panel"
+            />
+        <Button
+            android:id="@+id/bt_talk_record"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            android:layout_marginTop="@dimen/source_bt_padding"
+           	style="@style/source_button_text"
+            android:text="@string/talk_record"
+            android:background="@drawable/talk_record"
+            />
+        <Button
+            android:id="@+id/bt_phone_book"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            android:layout_marginTop="@dimen/source_bt_padding"
+            style="@style/source_button_text"
+            android:text="@string/phone_book"
+            android:background="@drawable/phone_book"
+            />
+        <Button
+            android:id="@+id/bt_phone_offen"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            android:layout_marginTop="@dimen/source_bt_padding"
+            style="@style/source_button_text"
+            android:text="@string/often_use"
+            android:background="@drawable/often_use"
+            />
+    </LinearLayout>
+    
+     <FrameLayout
+        android:id="@+id/id_layout_phone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/padding_fragment_phone_left"
+        android:layout_marginRight="@dimen/padding_fragment_phone_right"
+         >
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:id="@+id/left_slide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/padding_status_bar"
+        android:layout_marginLeft="@dimen/padding_left"
+        android:background="@drawable/transparent"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/bt_radio1"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            style="@style/source_button_text"
+            android:text="@string/source_radio"
+            android:background="@drawable/source_radio"
+            />
+        <Button
+            android:id="@+id/bt_usb1"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            android:layout_marginTop="@dimen/source_bt_padding"
+            style="@style/source_button_text"
+            android:text="@string/source_usb"
+            android:background="@drawable/source_usb"
+            />
+        <Button
+            android:id="@+id/bt_btmusic"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            android:layout_marginTop="@dimen/source_bt_padding"
+            style="@style/source_button_text"
+            android:text="@string/bluetooth_music"
+            android:background="@drawable/source_btmusic"
+            />
+        <Button
+            android:id="@+id/bt_phone1"
+            android:layout_width="@dimen/source_bt_width"
+            android:layout_height="@dimen/source_bt_hight"
+            android:layout_marginTop="@dimen/source_bt_padding"
+            style="@style/source_button_text"
+            android:text="@string/source_phone"
+            android:background="@drawable/source_phone"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

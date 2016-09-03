@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_all" >
+
+    <ListView
+        android:id="@+id/device_list"
+        android:layout_width="@dimen/bluetoothsetting_item_width"
+        android:layout_height="@dimen/btdevice_list_hight"
+       	android:listSelector="@color/transparent"
+		android:scrollbars="none"
+		android:layout_centerInParent="true"
+		android:divider="@drawable/listline"
+		android:layout_marginTop="@dimen/bluetoothsetting_list_padding_top"
+		android:layout_marginLeft="@dimen/bluetoothsetting_list_padding_left" 
+        >
+    </ListView>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/bluetoothsetting_tip_padding_top"
+        android:layout_marginLeft="@dimen/bluetoothsetting_tip_padding_left"  
+        >
+        
+       <TextView
+        android:id="@+id/connect_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/connect_bt_tip"
+        android:textColor="@color/white" 
+        android:textSize="@dimen/bluetoothsetting_tip_text_size"
+        />
+       
+       <TextView 
+        android:id="@+id/default_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_bt_name"
+        android:textColor="@color/freq_color"
+        android:textSize="@dimen/bluetoothsetting_tip_text_size"
+        />
+       
+         
+    </LinearLayout>
+    
+    <Button
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/bluetoothsetting_search_padding_left"
+        android:background="@drawable/bt_bluetooth_search"
+        android:text="@string/search_device"
+        android:textSize="@dimen/bluetoothsetting_search_text_sieze"
+        android:textColor="@color/white"
+        />
+    
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bt_bluetooth_back"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        />
+    
+</RelativeLayout>

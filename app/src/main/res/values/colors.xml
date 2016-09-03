@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<drawable name="transparent">#00000000</drawable>
+	<color name="white">#ffffffff</color>
+	<color name="freq_color">#ff9700</color>
+	<color name="source_default">#c7c0b9</color>
+	<color name="black">#000000</color>
+	<color name="transparent">#00000000</color>
+	<color name="connected">#06ff00</color>
+	<color name="usb_ablum_author">#c7c7c7</color>
+</resources>

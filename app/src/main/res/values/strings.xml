@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RadioPhoneApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="radio_FMtype">MHz</string>
+    <string name="radio_AMtype">KHz</string>
+    <string name="source_radio">收音机</string>
+    <string name="source_usb">USB音乐</string>
+    <string name="bluetooth_music">蓝牙音乐</string>
+    <string name="source_phone">拨打电话</string>
+    <string name="connect_bt_tip">连接车机蓝牙名称:SmipleRadio></string>
+    <string name="default_bt_name">SimpleRadio</string>
+    <string name="connected">已连接</string>
+    <string name="pair_agree">设置</string>
+    <string name="pair_cancle">退出</string>
+    <string name="disconnect_device">断开与以下设备的连接\n</string>
+    <string name="dialog_ok">确定</string>
+    <string name="connecting">正在连接</string>
+    <string name="disconnecting">正在断开</string>
+    <string name="search_device">扫描</string>
+    <string name="search_stop">停止</string>
+
+    <!--//appsetting-->
+    <string name="set_btdevice">连接车机蓝牙名称:SimpleRadio</string>
+    <string name="set_eq">音效设置</string>
+    <string name="set_radio">电台个数</string>
+    <string name="set_version">版本信息</string>
+    <string name="set_recovery">恢复出厂设置</string>
+
+    <!--//appversino-->
+
+    <string name="versioninfo">版本信息</string>
+    <string name="usbinfo">USB:</string>
+    <string name="imagever">固件版本:</string>
+    <string name="softver">软件版本:</string>
+    <string name="btver">蓝牙版本:</string>
+    <string name="mcuver">MCU版本:</string>
+
+    <!--radio counts-->
+    <string name="fmcounts">FM显示预存电台个数:</string>
+    <string name="amcounts">AM显示预存电台个数:</string>
+
+    <!--sound set-->
+    <string name="sound_bass">低音</string>
+    <string name="sound_middle">中音</string>
+    <string name="sound_treble">高音</string>
+    <string name="sound_define">自定义</string>
+    <string name="sound_reset">重置</string>
+    <string name="sound_back">退出自定</string>
+    <string name="sound_save">保存</string>
+    <string name="sound_default">重置</string>
+    <string name="sound_jhq">均衡器</string>
+    <string name="sound_zyph">音场</string>
+    <string name="sound_style_custom">自定义</string>
+
+
+    <!--dialog show text-->
+    <string name="first_connect_bt">确定打开手机蓝牙以连接车机端蓝牙?</string>
+    <string name="judge_recovery">是否恢复出厂设置:</string>
+    <string name="judge_disconnect_bt">是否断开该蓝牙连接:</string>
+    <string name="first_conn_music_dialog">无法播放,建议你做如下检查:\n连接的USB是否有异常\n设备是否有储存音乐</string>
+    <string name="onloading">USB音乐加载中...</string>
+    <string name="btconnecting">蓝牙音乐连接中...</string>
+
+
+    <!--phone moudle-->
+    <string name="dial_panel">拨号键盘</string>
+    <string name="talk_record">通话记录</string>
+    <string name="phone_book">电话本</string>
+    <string name="often_use">常用电话</string>
+
+    <!-- 当前设备 -->
+    <string name="cur_phone_num_hint">请输入电话号码</string>
+    <string name="cur_dev_clear">清空</string>
+    <string name="cur_dev_cal">拨打</string>
+
+
+</resources>

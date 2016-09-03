@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_all"
+    >
+
+
+    <!--当前设备名-->
+    <TextView
+        android:id="@+id/cur_dev_name"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="38px"
+        android:layout_width="391px"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="60px"
+        android:text="iphone6s"/>
+
+    <!-- 电话号码 -->
+    <TextView
+        android:hint="@string/cur_phone_num_hint"
+        android:id="@+id/cur_phone_num"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_start_x"
+        android:layout_marginTop="@dimen/cur_phone_num_y"
+        android:singleLine="true"
+        android:ellipsize="start"
+        android:paddingLeft="10px"
+        android:paddingRight="10px"
+        android:background="@drawable/icon_phone_num" />
+
+
+    <!-- delete -->
+    <TextView
+        android:id="@+id/cur_del"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_del_x"
+        android:layout_marginTop="@dimen/cur_del_y"
+        android:background="@drawable/cur_del_bg"
+        android:nextFocusLeft="@+id/cur_num_1"
+        android:nextFocusRight="@+id/cur_clear" />
+    <TextView
+        android:id="@+id/cur_clear"
+        android:nextFocusLeft="@id/cur_del"
+        android:nextFocusRight="@+id/cur_cal"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_clear_x"
+        android:layout_marginTop="@dimen/cur_clear_y"
+        android:background="@drawable/cur_clear_bg"
+        android:gravity="center"
+        android:text="@string/cur_dev_clear"
+        android:textSize="24px" />
+
+    <!-- 数字 1 -->
+
+    <TextView
+        android:id="@+id/cur_num_1"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_start_x"
+        android:layout_marginTop="@dimen/cur_num_col_1"
+        android:background="@drawable/cur_num_bg"
+        android:text="1" />
+    <!-- 数字 2 -->
+
+    <TextView
+        android:id="@+id/cur_num_2"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_2"
+        android:layout_marginTop="@dimen/cur_num_col_1"
+        android:background="@drawable/cur_num_bg"
+        android:text="2" />
+    <!-- 数字 3 -->
+
+    <TextView
+        android:id="@+id/cur_num_3"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_3"
+        android:layout_marginTop="@dimen/cur_num_col_1"
+        android:background="@drawable/cur_num_bg"
+        android:text="3" />
+    <!-- 数字 4 -->
+
+    <TextView
+        android:id="@+id/cur_num_4"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_start_x"
+        android:layout_marginTop="@dimen/cur_num_col_2"
+        android:background="@drawable/cur_num_bg"
+        android:text="4" />
+    <!-- 数字 5 -->
+
+    <TextView
+        android:id="@+id/cur_num_5"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_2"
+        android:layout_marginTop="@dimen/cur_num_col_2"
+        android:background="@drawable/cur_num_bg"
+        android:text="5" />
+
+    <!-- 数字 6 -->
+    <TextView
+        android:id="@+id/cur_num_6"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_3"
+        android:layout_marginTop="@dimen/cur_num_col_2"
+        android:background="@drawable/cur_num_bg"
+        android:text="6" />
+
+    <!-- 数字 7 -->
+    <TextView
+        android:id="@+id/cur_num_7"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_start_x"
+        android:layout_marginTop="@dimen/cur_num_col_3"
+        android:background="@drawable/cur_num_bg"
+        android:text="7" />
+    <!-- 数字 8 -->
+
+    <TextView
+        android:id="@+id/cur_num_8"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_2"
+        android:layout_marginTop="@dimen/cur_num_col_3"
+        android:background="@drawable/cur_num_bg"
+        android:text="8" />
+
+    <!-- 数字 9 -->
+    <TextView
+        android:id="@+id/cur_num_9"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_3"
+        android:layout_marginTop="@dimen/cur_num_col_3"
+        android:background="@drawable/cur_num_bg"
+        android:text="9" />
+
+    <!-- 数字 * -->
+    <TextView
+        android:id="@+id/cur_num_st"
+        android:gravity="top|center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_start_x"
+        android:layout_marginTop="@dimen/cur_num_col_4"
+        android:background="@drawable/cur_xinhao_bg" />
+
+    <!-- 数字 0 -->
+
+    <TextView
+        android:id="@+id/cur_num_0"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_2"
+        android:layout_marginTop="@dimen/cur_num_col_4"
+        android:background="@drawable/cur_num_bg"
+        android:text="0" />
+    <!-- 数字 # -->
+
+    <TextView
+        android:textColor="@android:color/holo_red_dark"
+        android:id="@+id/cur_num_sh"
+        style="@style/cur_text_color_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_num_row_3"
+        android:layout_marginTop="@dimen/cur_num_col_4"
+        android:background="@drawable/cur_jinhao_bg"
+        />
+
+
+    <TextView
+        android:id="@+id/cur_call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/cur_cal_x"
+        android:layout_marginTop="@dimen/cur_cal_y"
+        android:background="@drawable/cur_dial_bg"
+        android:gravity="bottom|center_horizontal"
+        android:paddingBottom="40px"
+        android:textSize="24px" />
+
+
+</RelativeLayout>

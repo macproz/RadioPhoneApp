@@ -1,0 +1,88 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+         <item name="android:windowNoTitle">true</item>
+    </style>
+    
+    <style name="source_button_text">
+        <item name="android:textSize">11sp</item>
+        <item name="android:gravity">bottom|center_horizontal</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textColor">@drawable/button_font_style</item>
+    </style>
+    
+    <style name="pair_button_text">
+        <item name="android:textSize">11sp</item>
+        <item name="android:gravity">bottom|center_horizontal</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textColor">@drawable/button_pair_style</item>
+    </style>
+    
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+
+
+    <style name="set_item">
+        <item name="android:background">@drawable/all_list_item</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:paddingLeft">0dp</item>
+    </style>
+
+    <style name="set_item_left">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">20px</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFA0A0A0</item>
+    </style>
+
+    <style name="set_item_right">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginRight">30px</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textColor">#FFA0A0A0</item>
+    </style>
+
+
+    <style name="common_horizontal_division_line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">#00ffee</item>
+    </style>
+
+
+    <!-- 当前设备 电话模块-->
+   <!-- <style name="cur_text_color">
+       &lt;!&ndash; <item name="android:textColor">@android:color/white</item>&ndash;&gt;
+    </style>
+-->
+    <style name="cur_text_color_size">
+        <item name="android:clickable">true</item>
+        <item name="android:textSize">36px</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/setup_eq_jhq_dck_zdy_p" android:state_pressed="true"/>
+    <item android:drawable="@drawable/setup_eq_jhq_dck_zdy_p" android:state_selected="true"/>
+    <item android:drawable="@drawable/setup_eq_jhq_dck_zdy_f" android:state_enabled="false"/>
+    <item android:drawable="@drawable/setup_eq_jhq_dck_zdy_n"></item>
+
+</selector>

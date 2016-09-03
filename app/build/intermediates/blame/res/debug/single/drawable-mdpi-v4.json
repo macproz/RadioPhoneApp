@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/test.9.png",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable-mdpi/test.9.png"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/media_video_play_kanban_bj.png",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable-mdpi/media_video_play_kanban_bj.png"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

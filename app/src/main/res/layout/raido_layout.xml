@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/radio_fragment"
+    >
+    
+    <LinearLayout
+        android:id="@+id/radio_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:layout_marginTop="@dimen/radio_setting_padding_top"
+        >
+        
+        <Button
+            android:id="@+id/volume_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/volume_setting"
+            android:layout_marginLeft="@dimen/volume_padding_left"
+            />
+         <!-- android:layout_width="@dimen/radio_setting_bt_width"
+            android:layout_height="@dimen/radio_setting_bt_hight" -->
+         <Button
+            android:id="@+id/eq_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/eq_setting"
+            android:layout_marginLeft="@dimen/eq_padding_left"
+            />
+        <Button
+            android:id="@+id/system_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/system_setting"
+            android:layout_marginLeft="@dimen/setting_padding_left"
+            />
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/radio_freq_info"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/freq_info_layout_hight"
+        android:layout_above="@+id/radio_page_index"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/freq_info_padding_point"
+        android:gravity="bottom" 
+        >
+        
+        <Button
+            android:id="@+id/freq_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/radio_freq_pre_padding"
+            android:background="@drawable/bt_fm_freq_pre"
+            />
+        
+        <TextView
+            android:id="@+id/radio_freq"
+            android:layout_width="@dimen/radio_freq_info_width"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/freq_info_text_padding_left"
+            android:text="90.7"
+            android:textSize="@dimen/radio_freq_text_size"
+            android:textColor="@color/freq_color"
+            android:layout_gravity="center_horizontal"
+            />
+        
+        <TextView
+            android:id="@+id/radio_unit_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/radio_freq_type_size"
+            android:text="@string/radio_FMtype"
+            android:textColor="@color/white" 
+            />
+        <Button
+            android:id="@+id/freq_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/radio_freq_next_padding"
+            android:background="@drawable/bt_fm_freq_next" 
+            />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/radio_page_index"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_above="@+id/viewPagerLayout"
+        android:layout_margin="@dimen/radio_page_index_padding"
+        android:layout_centerHorizontal="true" 
+        >
+        
+        <ImageView 
+            android:id="@+id/page_index_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/point_n"
+            android:layout_marginLeft="@dimen/radio_page_point_to_point"
+            />
+        <ImageView 
+            android:id="@+id/page_index_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/point_n"
+            android:layout_marginLeft="@dimen/radio_page_point_to_point"
+            />
+        <ImageView 
+            android:id="@+id/page_index_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/point_n"
+            android:layout_marginLeft="@dimen/radio_page_point_to_point"
+            />
+        <ImageView 
+            android:id="@+id/page_index_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/point_n"
+            android:layout_marginLeft="@dimen/radio_page_point_to_point"
+            />
+        <ImageView 
+            android:id="@+id/page_index_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/point_n"
+            android:layout_marginLeft="@dimen/radio_page_point_to_point"
+            />
+        <ImageView 
+            android:id="@+id/page_index_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/point_n"
+            android:layout_marginLeft="@dimen/radio_page_point_to_point"
+            />
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/viewPagerLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_above="@+id/radio_control"
+        android:layout_margin="@dimen/padding_radio_control"
+        android:layout_centerHorizontal="true"
+
+        >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="528dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="@dimen/radio_viewpager_padding_left"
+            android:layout_gravity="center"
+            android:flipInterval="30"
+            android:persistentDrawingCache="animation" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/radio_control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_down"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/padding_bottom"
+        >
+        
+        <Button 
+            android:id="@+id/radio_fm_band"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:background="@drawable/radio_switch_fm"
+            />
+
+        <Button
+            android:id="@+id/radio_am_band"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:background="@drawable/radio_switch_am"
+            android:visibility="gone"
+            />
+        
+        <Button 
+            android:id="@+id/radio_pre"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:background="@drawable/bt_fm_pre"
+            />
+         <Button 
+            android:id="@+id/radio_search"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:background="@drawable/bt_fm_search"
+            />
+          <Button 
+            android:id="@+id/radio_next"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:background="@drawable/bt_fm_next"
+            />
+          
+            <Button 
+            android:id="@+id/radio_exit"
+            android:layout_width="@dimen/radio_control_bt_width"
+            android:layout_height="@dimen/radio_control_bt_hight"
+            android:background="@drawable/bt_fm_exit"
+            />
+        
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/fm_contrl_volume"
+        android:layout_width="1499px"
+        android:layout_height="200px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="3px"
+        android:background="@drawable/voice_tiao"
+        android:visibility="gone" >
+
+        <Button
+            android:layout_centerVertical="true"
+            android:id="@+id/all_volume_sub_fm"
+            android:layout_width="176px"
+            android:layout_height="148px"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/all_volume_sub" />
+
+        <com.yf.phoneapp.ui.AllVolumeView
+            android:id="@+id/id_volume_view"
+            android:layout_width="904px"
+            android:layout_height="200px"
+            android:layout_marginLeft="61dp"
+            android:layout_marginTop="0dp" />
+
+
+        <!--<SeekBar-->
+            <!--android:id="@+id/vol_seekbar"-->
+            <!--android:layout_width="904px"-->
+            <!--android:layout_height="200px"-->
+            <!--android:layout_marginLeft="61dp"-->
+            <!--android:layout_marginTop="0dp"-->
+            <!--android:progressDrawable="@drawable/voice_pic"-->
+            <!--android:thumb="@drawable/thumb_seekbar"-->
+
+            <!--/>-->
+
+        <TextView
+            android:id="@+id/id_volume_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="170dp"
+            android:text="媒体音量"
+            android:textColor="#ffffff"
+            android:textSize="45px"
+            android:layout_marginTop="10dp"
+            android:visibility="visible" />
+
+        <Button
+
+            android:layout_marginLeft="370dp"
+            android:layout_centerVertical="true"
+            android:id="@+id/all_volume_add_fm"
+            android:layout_width="176px"
+            android:layout_height="148px"
+            android:background="@drawable/all_volume_add" />
+
+        <Button
+
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/all_volume_mute"
+            android:layout_width="176px"
+            android:layout_height="148px"
+            android:background="@drawable/voice_jingyin" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/eq_layout_search"
+        android:layout_width="fill_parent"
+        android:layout_height="394dp"
+        android:visibility="gone" >
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="394dp"
+            android:background="@drawable/radio_stored_bj_n"
+            android:clickable="true"
+            />
+
+        <Button
+            android:id="@+id/bt_quit_serach"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="100px"
+            android:background="@drawable/bt_quit_searchradio"
+            android:focusable="true"
+            android:text="取消"
+            android:textColor="@android:color/white"
+            android:textSize="28sp" />
+
+        <SeekBar
+            android:layout_width="415dp"
+            android:layout_height="9dp"
+            android:layout_above="@+id/bt_quit_serach"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:focusable="false"
+            android:maxHeight="9dp"
+            android:minHeight="9dp"
+            android:progressDrawable="@drawable/progress_seekbar"
+            android:thumb="@drawable/thumb_seekbar"
+            android:visibility="gone" />
+
+        <com.yf.phoneapp.ui.YFSeekBar
+            android:id="@+id/eq_seekbar_search"
+            android:layout_width="514dp"
+            android:layout_height="40dp"
+            android:layout_above="@+id/bt_quit_serach"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:maxHeight="40dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/bt_quit_serach"
+            android:layout_marginBottom="45px"
+            android:gravity="center_horizontal"
+            android:text="电台搜索中..."
+            android:textColor="@android:color/white"
+            android:textSize="60sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

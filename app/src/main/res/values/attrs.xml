@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+    <declare-styleable name="MusicSeekbar"> 
+        <attr name="bar_background" format="reference"/> 
+        <attr name="bar_progress_drawable" format="reference"/> 
+        <attr name="bar_thumb" format="reference"/> 
+    </declare-styleable> 
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yf.radiophoneapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.yf.radiophoneapp.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yf.radiophoneapp.PhoneActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <!--
+        <activity 
+            android:name="com.yf.radiophoneapp.BluetoothSettingView"
+            android:screenOrientation="landscape"
+            android:launchMode="singleInstance" 
+            android:label="@string/app_name"
+            >
+        </activity>
+        -->
+
+        <activity
+            android:name="com.yf.radiophoneapp.AppSettingView"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.yf.radiophoneapp.AppVersionView"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.yf.radiophoneapp.RadioCfgView"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.yf.radiophoneapp.FmCountsView"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.yf.radiophoneapp.AmCountsView"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.yf.radiophoneapp.EqSetView"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <service
+            android:name="com.yf.phoneapp.service.PhoneAppService"
+            android:persistent="true" >
+            <intent-filter android:priority="1000" >
+                <action android:name="com.yf.phoneapp.service" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

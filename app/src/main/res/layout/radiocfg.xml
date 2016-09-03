@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_all" >
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/bluetoothsetting_tip_padding_top"
+        android:layout_marginLeft="@dimen/bluetoothsetting_tip_padding_left"  
+        >
+
+        <RelativeLayout
+            android:layout_width="400dp"
+            android:layout_height="50dp"
+            android:paddingLeft="0dp">
+
+            <TextView
+                android:id="@+id/radio_show_num"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="20px"
+                android:textSize="25sp"
+                android:clickable="false"
+                android:focusable="false"
+                android:textColor="@color/white"
+                android:text="预存电台数量管理"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                />
+
+        </RelativeLayout>
+
+        <LinearLayout style="@style/common_horizontal_division_line_style" />
+
+        <RelativeLayout
+
+
+            android:paddingLeft="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/fm_show_num"
+                android:text="FM显示预存电台个数"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <!--android:text="FM显示预存电台个数"-->
+
+        </RelativeLayout>
+
+        <LinearLayout style="@style/common_horizontal_division_line_style" />
+
+        <RelativeLayout
+
+            android:paddingLeft="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/am_show_num"
+                android:text="AM显示预存电台个数"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:clickable="true"
+                android:focusable="true"
+                />
+        </RelativeLayout>
+        <LinearLayout style="@style/common_horizontal_division_line_style" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/radiocfg_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bt_bluetooth_back"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        />
+    
+</RelativeLayout>

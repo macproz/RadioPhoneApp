@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 43,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 43,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 42,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 42,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 47,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 47,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 47,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 47,
+                        "endOffset": 399
+                    }
+                }
+            }
+        ]
+    }
+]

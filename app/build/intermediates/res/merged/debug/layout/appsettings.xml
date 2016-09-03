@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_all" >
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/bluetoothsetting_tip_padding_top"
+        android:layout_marginLeft="@dimen/bluetoothsetting_tip_padding_left"
+        android:id="@+id/seteq_layout"
+        >
+
+        <RelativeLayout
+            android:id="@+id/set_btname"
+            android:paddingLeft="0dp"
+            android:layout_width="400dp"
+            android:layout_height="50dp" >
+
+            <TextView
+                android:id="@+id/left_btname_show"
+                style="@style/set_item_left"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text="@string/set_btdevice" />
+
+            <TextView
+                android:id="@+id/rightbtname"
+                style="@style/set_item_right"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text=">">
+            </TextView>
+        </RelativeLayout>
+
+        <LinearLayout style="@style/common_horizontal_division_line_style"/>
+
+        <RelativeLayout
+            android:id="@+id/set_eq"
+            android:paddingLeft="0dp"
+            android:layout_width="400dp"
+            android:layout_height="50dp" >
+
+            <TextView
+                android:id="@+id/lefteq_show"
+                style="@style/set_item_left"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text="@string/set_eq" />
+
+            <TextView
+                android:id="@+id/righteq"
+                style="@style/set_item_right"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text=">">
+            </TextView>
+        </RelativeLayout>
+
+        <LinearLayout style="@style/common_horizontal_division_line_style"/>
+
+        <RelativeLayout
+            android:id="@+id/set_radio"
+            android:paddingLeft="0dp"
+            android:layout_width="400dp"
+            android:layout_height="50dp" >
+
+            <TextView
+                android:id="@+id/leftradio_show"
+                style="@style/set_item_left"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text="@string/set_radio" />
+
+            <TextView
+                android:id="@+id/rightradio"
+                style="@style/set_item_right"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text=">">
+            </TextView>
+        </RelativeLayout>
+
+        <LinearLayout style="@style/common_horizontal_division_line_style"/>
+
+        <RelativeLayout
+            android:id="@+id/set_version"
+            android:paddingLeft="0dp"
+            android:layout_width="400dp"
+            android:layout_height="50dp" >
+
+            <TextView
+                android:id="@+id/leftversion_show"
+                style="@style/set_item_left"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text="@string/set_version" />
+
+            <TextView
+                android:id="@+id/rightversino"
+                style="@style/set_item_right"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text=">">
+            </TextView>
+        </RelativeLayout>
+
+        <LinearLayout style="@style/common_horizontal_division_line_style"/>
+
+        <RelativeLayout
+            android:id="@+id/set_recovery"
+            android:paddingLeft="0dp"
+            android:layout_width="400dp"
+            android:layout_height="50dp" >
+
+            <TextView
+                android:id="@+id/leftrecovery_show"
+                style="@style/set_item_left"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text="@string/set_recovery" />
+
+            <TextView
+                android:id="@+id/rightrecovery"
+                style="@style/set_item_right"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text=">">
+            </TextView>
+        </RelativeLayout>
+
+        <LinearLayout style="@style/common_horizontal_division_line_style"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/setback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bt_bluetooth_back"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        />
+    
+</RelativeLayout>

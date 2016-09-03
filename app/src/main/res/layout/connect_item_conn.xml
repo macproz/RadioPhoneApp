@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/bluetoothsetting_item_width"
+    android:layout_height="@dimen/bluetoothsetting_item_hight"
+    android:clickable="false">
+
+    <LinearLayout
+        android:id="@+id/connect_device"
+        android:layout_marginTop="@dimen/connect_layout_name_padding_top"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+        <TextView
+            android:id="@+id/id_text_device_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bluetoothsetting_item_text_padding_left"
+            android:ellipsize="end"
+            android:gravity="center_vertical"            
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/bluetoothsetting_item_text_size" 
+            android:lines="1"
+            android:scrollHorizontally="true"
+            />
+         
+         <TextView
+            android:id="@+id/id_text_device_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bluetoothsetting_item_text_padding_left"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="@string/connected"
+            android:textColor="@color/connected"
+            android:textSize="@dimen/bluetoothsetting_item_connected_text_size" 
+            android:visibility="invisible"
+            />
+    </LinearLayout>
+    
+    
+     <LinearLayout
+        android:id="@+id/unconnect_device"
+        android:layout_marginTop="@dimen/unconnect_layout_name_padding_top"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:visibility="invisible" >
+        <TextView
+        android:id="@+id/id_unconnect_device_name"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="@dimen/unconnect_device_text_name_padding_left"
+        android:layout_marginTop="@dimen/unconnect_device_text_name_padding_top"
+        android:ellipsize="end"
+        android:textColor="@android:color/white"
+       	android:textSize="@dimen/bluetoothsetting_item_text_size"  
+        android:lines="1"
+        android:scrollHorizontally="true"
+        />
+    </LinearLayout>
+    
+    
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/connect_layout_name_padding_top"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentRight="true"
+        android:orientation="horizontal"
+        android:gravity="left" >
+        <Button
+            android:visibility="gone"
+            android:id="@+id/id_button_connect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/set_bt_dev_connect_item_connect" />
+        <Button
+            android:visibility="invisible"
+            android:id="@+id/id_button_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/set_bt_dev_connect_item_del" />
+    </LinearLayout>
+
+</RelativeLayout>
