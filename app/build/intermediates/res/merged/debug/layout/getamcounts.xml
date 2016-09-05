@@ -14,7 +14,7 @@
 		android:divider="@drawable/listline"
 		android:layout_marginTop="@dimen/bluetoothsetting_list_padding_top"
 		android:layout_marginLeft="@dimen/bluetoothsetting_list_padding_left"
-        android:choiceMode="singleChoice"
+        android:clickable="true"
         >
     </ListView>
     

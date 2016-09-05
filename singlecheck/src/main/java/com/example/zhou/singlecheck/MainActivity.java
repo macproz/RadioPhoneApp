@@ -26,7 +26,7 @@ public class MainActivity extends Activity{
         private Map<Integer, Boolean> isSelected;
         private List beSelectedData = new ArrayList<>();
         ListAdapter adapter;
-        private List cs = null;
+        private List cos = null;
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
@@ -35,41 +35,41 @@ public class MainActivity extends Activity{
 
             listView = (ListView) findViewById(R.id.lv_single_list);
 
-            cs  = new ArrayList();
-            cs.add("aaaaaa");
-            cs.add("bbbbbb");
-            cs.add("cccccc");
-            cs.add("dddddd");
-            cs.add("eeeeee");
-            cs.add("ffffff");
-            cs.add("gggggg");
-            cs.add("hhhhhh");
-            cs.add("jjjjjj");
+            cos  = new ArrayList();
+            cos.add("aaaaaa");
+            cos.add("bbbbbb");
+            cos.add("cccccc");
+            cos.add("dddddd");
+            cos.add("eeeeee");
+            cos.add("ffffff");
+            cos.add("gggggg");
+            cos.add("hhhhhh");
+            cos.add("jjjjjj");
 
             initList();
         }
 
         void initList(){
 
-            if (cs == null || cs.size() == 0)
+            if (cos == null || cos.size() == 0)
                 return;
             if (isSelected != null)
                 isSelected = null;
             isSelected = new HashMap<Integer, Boolean>();
-            for (int i = 0; i < cs.size(); i++) {
+            for (int i = 0; i < cos.size(); i++) {
                 isSelected.put(i, false);
             }
             // 清除已经选择的项
             if (beSelectedData.size() > 0) {
                 beSelectedData.clear();
             }
-            adapter = new ListAdapter(this, cs);
+            adapter = new ListAdapter(this, cos);
             listView.setAdapter(adapter);
             listView.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
             adapter.notifyDataSetChanged();
             listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                    Log.i("map", cs.get(position).toString());
+                    Log.i("map", cos.get(position).toString());
                 }
             });
 
