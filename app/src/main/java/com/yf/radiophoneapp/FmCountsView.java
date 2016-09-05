@@ -24,7 +24,6 @@ public class FmCountsView extends Activity implements OnClickListener{
 	private ListView radiolistview;
 	private RadioListAdapter adapter;
 	private List FmDatas = null;
-	private String[] FmNums = new String[]{"6个","12个","18个","24个","30个","36个"};
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

@@ -1,11 +1,19 @@
 [
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_usb_pause.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_usb_pause.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/all_list_item.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/all_list_item.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_quit_searchradio.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_quit_searchradio.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/sourece_button.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/sourece_button.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/radio_switch_am.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/radio_switch_am.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_next.xml",
@@ -16,20 +24,28 @@
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_quit_searchradio.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/set_bt_dev_connect_item_disconnect.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/set_bt_dev_connect_item_disconnect.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_xinhao_bg.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/cur_xinhao_bg.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_band.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_band.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/phone_book.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/phone_book.xml"
+    },
+    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/dial_panel.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/dial_panel.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_del_bg.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_del_bg.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_pair_right_btn.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_pair_right_btn.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_freq_next.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_fm_freq_next.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_left1.xml",
@@ -44,128 +60,144 @@
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_add.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_jinhao_bg.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_jinhao_bg.xml"
-    },
-    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/usb_favor.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/usb_favor.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/all_volume_sub.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/all_volume_sub.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_num_bg.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_num_bg.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/system_setting.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/system_setting.xml"
+    },
+    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_xinhao_bg.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_xinhao_bg.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/all_volume_add.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/all_volume_add.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/often_use.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/often_use.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_style_define.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_style_define.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/all_volume_sub.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/all_volume_sub.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_del_bg.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/cur_del_bg.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_left.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_left.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_phone.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/source_phone.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/usb_random.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/usb_random.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/set_bt_dev_connect_item_del.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/set_bt_dev_connect_item_del.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_down.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_down.xml"
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_phone.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/source_phone.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/volume_setting.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/volume_setting.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_setting.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_setting.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_search.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_fm_search.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/set_bt_dev_connect_item_connect.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/set_bt_dev_connect_item_connect.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/volume_setting.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/volume_setting.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_default.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_default.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_pair_right_btn.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_pair_right_btn.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/radio_switch_fm.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/radio_switch_fm.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_dial_bg.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_dial_bg.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/all_volume_add.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/all_volume_add.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_exit.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_exit.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/usb_repeat.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/usb_repeat.xml"
+    },
+    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_bluetooth_search.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_bluetooth_search.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_search.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_search.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/set_bt_dev_connect_item_del.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/set_bt_dev_connect_item_del.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_up.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_up.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/set_bt_dev_connect_item_disconnect.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/set_bt_dev_connect_item_disconnect.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_pre.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_pre.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_clear_bg.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/cur_clear_bg.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_freq_next.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_freq_next.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_bluetooth_back.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_bluetooth_back.xml"
+    },
+    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_default.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_default.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_pair_left_btn.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_pair_left_btn.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_dial_bg.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/cur_dial_bg.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_right1.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_right1.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_setting.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_setting.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/color_text.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/color_text.xml"
+    },
+    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_freq_pre.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_freq_pre.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_pair_left_btn.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_pair_left_btn.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/usb_repeat.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/usb_repeat.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/often_use.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/often_use.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/thumb_seekbar.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/thumb_seekbar.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_end_zyph.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_end_zyph.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/progress_seekbar.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/progress_seekbar.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_bluetooth_search.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_bluetooth_search.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_clear_bg.xml",
@@ -176,16 +208,8 @@
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_right.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/color_text.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/color_text.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/system_setting.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/system_setting.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/button_pair_style.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/button_pair_style.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_usb_pause.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_usb_pause.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_bluetooth_back.xml",
@@ -196,16 +220,12 @@
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_right1.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_btmusic.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/source_btmusic.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_btmusic.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/source_btmusic.xml"
     },
     {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_sub.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_sub.xml"
-    },
-    {
-        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/phone_book.xml",
-        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/phone_book.xml"
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/progress_seekbar.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/progress_seekbar.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_radio.xml",
@@ -224,12 +244,232 @@
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_end_jhq.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_radio.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/source_radio.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_down.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_down.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_left.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_left.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_usb_pause.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_usb_pause.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_right.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_right.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_band.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_fm_band.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_next.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_fm_next.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_add.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_add.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/button_pair_style.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/button_pair_style.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/set_bt_dev_connect_item_disconnect.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/set_bt_dev_connect_item_disconnect.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/dial_panel.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/dial_panel.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/sourece_button.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/sourece_button.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_del_bg.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_del_bg.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/usb_favor.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/usb_favor.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_sub.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_sub.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_left1.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_left1.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_jinhao_bg.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/cur_jinhao_bg.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/all_volume_sub.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/all_volume_sub.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_jinhao_bg.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_jinhao_bg.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/all_volume_add.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/all_volume_add.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_exit.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_fm_exit.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_style_define.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_style_define.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_usb.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/source_usb.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_usb_play.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_usb_play.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_down.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_down.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/volume_setting.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/volume_setting.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_up.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_up.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_pre.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_fm_pre.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_phone.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/source_phone.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/radio_switch_fm.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/radio_switch_fm.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_dial_bg.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/cur_dial_bg.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/set_bt_dev_connect_item_connect.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/set_bt_dev_connect_item_connect.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_search.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_search.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_up.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_up.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_pre.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_fm_pre.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/radio_switch_fm.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/radio_switch_fm.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_end_jhq.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_end_jhq.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_pair_left_btn.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_pair_left_btn.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/talk_record.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/talk_record.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/thumb_seekbar.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/thumb_seekbar.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/often_use.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/often_use.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/thumb_seekbar.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/thumb_seekbar.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_end_zyph.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_end_zyph.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_end_zyph.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_end_zyph.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/progress_seekbar.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/progress_seekbar.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/button_font_style.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/button_font_style.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/color_text.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/color_text.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/system_setting.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/system_setting.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/button_pair_style.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/button_pair_style.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_style_define.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/eq_btn_style_define.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/source_btmusic.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/source_btmusic.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/eq_btn_sub.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/eq_btn_sub.xml"
+    },
+    {
+        "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/phone_book.xml",
+        "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/phone_book.xml"
+    },
+    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_usb_play.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/bt_usb_play.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/cur_num_bg.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/cur_num_bg.xml"
+    },
+    {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/button_font_style.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/button_font_style.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/bt_fm_freq_pre.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/bt_fm_freq_pre.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/radio_stored.xml",
@@ -238,6 +478,10 @@
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/talk_record.xml",
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/drawable/talk_record.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/radio_stored.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/drawable/radio_stored.xml"
     },
     {
         "merged": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/build/intermediates/res/merged/debug/drawable/radio_switch_am.xml",
