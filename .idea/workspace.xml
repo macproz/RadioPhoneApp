@@ -132,43 +132,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f09f7c-629f-4284-90ed-03af0865ff72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/service/BluetoothSppConnection$DataRecvThread$1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/bluetoothadapter/RadioListAdapter$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/bluetoothadapter/RadioListAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/bluetoothadapter/RadioListAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/bluetoothadapter/RadioListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/service/BluetoothSppConnection$ConnectThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/service/BluetoothSppConnection$ConnectThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/service/BluetoothSppConnection$DataRecvThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/service/BluetoothSppConnection$DataRecvThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/service/BluetoothSppConnection.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/phoneapp/service/BluetoothSppConnection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/radiophoneapp/AmCountsView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/radiophoneapp/AmCountsView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/radiophoneapp/FmCountsView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/yf/radiophoneapp/FmCountsView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_701b8d573c7eb90f59cceab3032b01e7d83f09d2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_701b8d573c7eb90f59cceab3032b01e7d83f09d2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/getamcounts.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/getamcounts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/getfmcounts.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/getfmcounts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/radiocounts_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/radiocounts_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yf/phoneapp/bluetoothadapter/RadioListAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/yf/phoneapp/bluetoothadapter/RadioListAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/AmCountsView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/AmCountsView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/FmCountsView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/FmCountsView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/getamcounts.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/getamcounts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/getfmcounts.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/getfmcounts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/radiocounts_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/radiocounts_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/singlecheck/singlecheck.iml" afterPath="$PROJECT_DIR$/singlecheck/singlecheck.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/singlecheck/src/main/java/com/example/zhou/singlecheck/MainActivity.java" afterPath="$PROJECT_DIR$/singlecheck/src/main/java/com/example/zhou/singlecheck/MainActivity.java" />
-    </list>
+    <list default="true" id="01f09f7c-629f-4284-90ed-03af0865ff72" name="Default" comment="" />
     <ignored path="RadioPhoneApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -200,37 +164,23 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/RadioFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="797" column="36" selection-start-line="797" selection-start-column="20" selection-end-line="797" selection-end-column="36" />
+              <caret line="1141" column="53" selection-start-line="1141" selection-start-column="53" selection-end-line="1141" selection-end-column="53" />
               <folding>
-                <element signature="imports" expanded="false" />
                 <element signature="e#8795#8872#0" expanded="false" />
-                <element signature="e#13926#13927#0" expanded="false" />
-                <element signature="e#13950#13951#0" expanded="false" />
                 <element signature="e#15585#15676#0" expanded="false" />
-                <element signature="e#18664#18665#0" expanded="false" />
-                <element signature="e#18692#18693#0" expanded="false" />
-                <element signature="e#18886#18887#0" expanded="false" />
-                <element signature="e#18915#18916#0" expanded="false" />
-                <element signature="e#20638#20639#0" expanded="false" />
-                <element signature="e#20713#20714#0" expanded="false" />
-                <element signature="e#24292#24293#0" expanded="false" />
-                <element signature="e#24336#24337#0" expanded="false" />
-                <element signature="e#26128#26129#0" expanded="false" />
-                <element signature="e#26153#26154#0" expanded="false" />
-                <element signature="e#33068#33069#0" expanded="false" />
-                <element signature="e#33104#33105#0" expanded="false" />
-                <element signature="e#33466#33467#0" expanded="false" />
-                <element signature="e#33503#33504#0" expanded="false" />
+                <element signature="e#24239#24342#0" expanded="true" />
+                <element signature="e#24341#24342#0" expanded="true" />
+                <element signature="e#27655#27684#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppProtocol.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AppProtocol.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/protocol/AppProtocol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="644" column="26" selection-start-line="644" selection-start-column="26" selection-end-line="644" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.007633588">
+              <caret line="651" column="38" selection-start-line="651" selection-start-column="38" selection-end-line="651" selection-end-column="38" />
               <folding>
                 <element signature="e#1663#1710#0" expanded="false" />
                 <element signature="e#6996#7045#0" expanded="false" />
@@ -244,42 +194,6 @@
                 <element signature="e#17721#17738#0" expanded="false" />
                 <element signature="e#19234#19288#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AmCountsView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/AmCountsView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-              <folding>
-                <element signature="e#1759#1976#0" expanded="true" />
-                <element signature="e#1975#1976#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FmCountsView.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/FmCountsView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26717559">
-              <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
-              <folding>
-                <element signature="e#1884#2101#0" expanded="true" />
-                <element signature="e#2100#2101#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RadioListAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/phoneapp/bluetoothadapter/RadioListAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -3995,7 +3909,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1238" height="702" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4016,7 +3930,7 @@
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.49665552" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26421404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23244147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29180887" sideWeight="0.5920942" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -4045,13 +3959,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/PhoneBookFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icon_radio_n.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -4323,60 +4230,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/RadioFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="797" column="36" selection-start-line="797" selection-start-column="20" selection-end-line="797" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#8795#8872#0" expanded="false" />
-            <element signature="e#13926#13927#0" expanded="false" />
-            <element signature="e#13950#13951#0" expanded="false" />
-            <element signature="e#15585#15676#0" expanded="false" />
-            <element signature="e#18664#18665#0" expanded="false" />
-            <element signature="e#18692#18693#0" expanded="false" />
-            <element signature="e#18886#18887#0" expanded="false" />
-            <element signature="e#18915#18916#0" expanded="false" />
-            <element signature="e#20638#20639#0" expanded="false" />
-            <element signature="e#20713#20714#0" expanded="false" />
-            <element signature="e#24292#24293#0" expanded="false" />
-            <element signature="e#24336#24337#0" expanded="false" />
-            <element signature="e#26128#26129#0" expanded="false" />
-            <element signature="e#26153#26154#0" expanded="false" />
-            <element signature="e#33068#33069#0" expanded="false" />
-            <element signature="e#33104#33105#0" expanded="false" />
-            <element signature="e#33466#33467#0" expanded="false" />
-            <element signature="e#33503#33504#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/phoneapp/service/BluetoothSppConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.30177516">
           <caret line="338" column="24" selection-start-line="338" selection-start-column="24" selection-end-line="338" selection-end-column="24" />
           <folding>
             <element signature="e#8378#8406#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/protocol/AppProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="644" column="26" selection-start-line="644" selection-start-column="26" selection-end-line="644" selection-end-column="26" />
-          <folding>
-            <element signature="e#1663#1710#0" expanded="false" />
-            <element signature="e#6996#7045#0" expanded="false" />
-            <element signature="method#fourByteToInt#0;class#AppProtocol#0" expanded="false" />
-            <element signature="method#intToBytesH#0;class#AppProtocol#0" expanded="false" />
-            <element signature="method#bytesToIntH#0;class#AppProtocol#0" expanded="false" />
-            <element signature="method#getCheckSumFromDataPackage#0;class#AppProtocol#0" expanded="false" />
-            <element signature="e#13050#13113#0" expanded="false" />
-            <element signature="e#15991#16079#0" expanded="false" />
-            <element signature="e#17066#17081#0" expanded="false" />
-            <element signature="e#17721#17738#0" expanded="false" />
-            <element signature="e#19234#19288#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4446,9 +4305,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/FmCountsView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26717559">
+          <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding>
+            <element signature="e#1884#2101#0" expanded="true" />
+            <element signature="e#2100#2101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/phoneapp/bluetoothadapter/RadioListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76081425">
+          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/AmCountsView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.7633588">
           <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
           <folding>
             <element signature="e#1759#1976#0" expanded="true" />
@@ -4457,21 +4335,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/phoneapp/bluetoothadapter/RadioListAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/RadioFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+          <caret line="1141" column="53" selection-start-line="1141" selection-start-column="53" selection-end-line="1141" selection-end-column="53" />
+          <folding>
+            <element signature="e#8795#8872#0" expanded="false" />
+            <element signature="e#15585#15676#0" expanded="false" />
+            <element signature="e#24239#24342#0" expanded="true" />
+            <element signature="e#24341#24342#0" expanded="true" />
+            <element signature="e#27655#27684#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/EqSetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49618322">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/radiophoneapp/FmCountsView.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yf/protocol/AppProtocol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26717559">
-          <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.007633588">
+          <caret line="651" column="38" selection-start-line="651" selection-start-column="38" selection-end-line="651" selection-end-column="38" />
           <folding>
-            <element signature="e#1884#2101#0" expanded="true" />
-            <element signature="e#2100#2101#0" expanded="true" />
+            <element signature="e#1663#1710#0" expanded="false" />
+            <element signature="e#6996#7045#0" expanded="false" />
+            <element signature="method#fourByteToInt#0;class#AppProtocol#0" expanded="false" />
+            <element signature="method#intToBytesH#0;class#AppProtocol#0" expanded="false" />
+            <element signature="method#bytesToIntH#0;class#AppProtocol#0" expanded="false" />
+            <element signature="method#getCheckSumFromDataPackage#0;class#AppProtocol#0" expanded="false" />
+            <element signature="e#13050#13113#0" expanded="false" />
+            <element signature="e#15991#16079#0" expanded="false" />
+            <element signature="e#17066#17081#0" expanded="false" />
+            <element signature="e#17721#17738#0" expanded="false" />
+            <element signature="e#19234#19288#0" expanded="false" />
           </folding>
         </state>
       </provider>
