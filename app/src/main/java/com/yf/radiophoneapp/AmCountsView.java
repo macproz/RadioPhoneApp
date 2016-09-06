@@ -33,13 +33,10 @@ public class AmCountsView extends Activity implements OnClickListener{
 		setContentView(R.layout.getamcounts);
 		radiolistview = (ListView) findViewById(R.id.am_list);
 		datas = new ArrayList();
-		datas.add("4个");
-		datas.add("8个");
+		datas.add("6个");
 		datas.add("12个");
-		datas.add("16个");
-
 		initView();
-		Log.d("TAG", "bt-Fmcounts oncreate");
+		Log.d("TAG", "bt-Amcounts oncreate");
 	}
 	
 	@Override

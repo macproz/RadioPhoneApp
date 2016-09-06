@@ -62,7 +62,7 @@ public class WindowDialog {
         params.gravity = Gravity.CENTER;
         params.alpha = 1.f;
         mDialog.getWindow().setAttributes(params);
-        mDialog.show();
+//        mDialog.show();
         mDialog.setOnKeyListener(new OnKeyListener() {
 			@Override
 			public boolean onKey(DialogInterface dialog, int keyCode, KeyEvent event) {
