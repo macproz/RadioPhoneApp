@@ -1688,9 +1688,9 @@
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
-                        "startOffset": 5452,
+                        "startOffset": 5451,
                         "endColumn": 45,
-                        "endOffset": 5493
+                        "endOffset": 5492
                     }
                 }
             },
@@ -1707,9 +1707,9 @@
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
-                        "startOffset": 5405,
+                        "startOffset": 5404,
                         "endColumn": 45,
-                        "endOffset": 5446
+                        "endOffset": 5445
                     }
                 }
             },
@@ -1878,9 +1878,9 @@
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 5363,
+                        "startOffset": 5362,
                         "endColumn": 40,
-                        "endOffset": 5399
+                        "endOffset": 5398
                     }
                 }
             },
@@ -2041,16 +2041,16 @@
                     "startLine": 39,
                     "startColumn": 4,
                     "startOffset": 2148,
-                    "endColumn": 46,
-                    "endOffset": 2190
+                    "endColumn": 47,
+                    "endOffset": 2191
                 },
                 "from": {
                     "file": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/values-1920x1080/dimens.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 4,
-                        "startOffset": 5499,
-                        "endColumn": 46,
+                        "startOffset": 5498,
+                        "endColumn": 47,
                         "endOffset": 5541
                     }
                 }
@@ -2059,8 +2059,8 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2195,
-                    "endColumn": 43,
+                    "startOffset": 2196,
+                    "endColumn": 42,
                     "endOffset": 2234
                 },
                 "from": {
@@ -2069,8 +2069,8 @@
                         "startLine": 114,
                         "startColumn": 4,
                         "startOffset": 5318,
-                        "endColumn": 43,
-                        "endOffset": 5357
+                        "endColumn": 42,
+                        "endOffset": 5356
                     }
                 }
             },
