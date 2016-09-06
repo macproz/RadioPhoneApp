@@ -112,21 +112,21 @@
 
 
     <!-- 当前设备 -->
-    <dimen name="cur_start_x">350px</dimen>
+    <dimen name="cur_start_x">80px</dimen>
     <dimen name="cur_name_y">0px</dimen>
     <dimen name="cur_btn_width">125px</dimen>
     <dimen name="cur_btn_height">62px</dimen>
-    <dimen name="cur_phone_num_y">80px</dimen>
+    <dimen name="cur_phone_num_y">140px</dimen>
     <dimen name="cur_phone_num_width">500px</dimen>
     <dimen name="cur_phone_num_height">80px</dimen>
-    <dimen name="cur_del_x">1150px</dimen>
+    <dimen name="cur_del_x">1000px</dimen>
     <dimen name="cur_del_y">@dimen/cur_phone_num_y</dimen>
-    <dimen name="cur_num_row_2">618px</dimen>
-    <dimen name="cur_num_row_3">885px</dimen>
-    <dimen name="cur_num_col_1">230px</dimen>
-    <dimen name="cur_num_col_2">380px</dimen>
-    <dimen name="cur_num_col_3">520px</dimen>
-    <dimen name="cur_num_col_4">658px</dimen>
+    <dimen name="cur_num_row_2">385px</dimen>
+    <dimen name="cur_num_row_3">689px</dimen>
+    <dimen name="cur_num_col_1">310px</dimen>
+    <dimen name="cur_num_col_2">467px</dimen>
+    <dimen name="cur_num_col_3">625px</dimen>
+    <dimen name="cur_num_col_4">784px</dimen>
     <dimen name="cur_clear_x">@dimen/cur_del_x</dimen>
     <dimen name="cur_clear_y">@dimen/cur_num_col_1</dimen>
     <dimen name="cur_cal_x">@dimen/cur_del_x</dimen>

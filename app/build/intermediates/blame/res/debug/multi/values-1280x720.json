@@ -323,7 +323,14 @@
                     "endOffset": 1662
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-1280x720/dimens.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-1280x720/dimens.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 5436,
+                        "endColumn": 41,
+                        "endOffset": 5473
+                    }
                 }
             },
             {
@@ -426,7 +433,14 @@
                     "endOffset": 2038
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-1280x720/dimens.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values-1280x720/dimens.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 5586,
+                        "endColumn": 45,
+                        "endOffset": 5627
+                    }
                 }
             },
             {
