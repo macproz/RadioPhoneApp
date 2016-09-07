@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/aidl/com/yf/phoneapp/aidl/PhoneAppCallback.aidl
+ * Original file: /Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/aidl/com/yf/phoneapp/aidl/PhoneAppCallback.aidl
  */
 package com.yf.phoneapp.aidl;
 public interface PhoneAppCallback extends android.os.IInterface

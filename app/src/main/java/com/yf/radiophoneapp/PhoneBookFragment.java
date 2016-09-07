@@ -8,13 +8,18 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 
+
+/*
+* 电话本页面
+*
+* */
 public class PhoneBookFragment extends Fragment implements OnClickListener{
 	private static final String TAG = "DialFragment";
 	ViewGroup mRootView;
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-		mRootView = (ViewGroup) LayoutInflater.from(getActivity()).inflate(R.layout.phone_dail_layout, null);
+		mRootView = (ViewGroup) LayoutInflater.from(getActivity()).inflate(R.layout.phone_book_layout, null);
 		findView();
 		return mRootView;
 	}

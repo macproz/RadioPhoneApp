@@ -11,7 +11,14 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 236,
+                        "endColumn": 36,
+                        "endOffset": 271
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 134
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 320,
+                        "endColumn": 40,
+                        "endOffset": 359
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 179
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 146,
+                        "endColumn": 41,
+                        "endOffset": 186
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 228
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 189,
+                        "endColumn": 45,
+                        "endOffset": 233
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 276
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 274,
+                        "endColumn": 44,
+                        "endOffset": 317
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 362,
+                        "endColumn": 47,
+                        "endOffset": 408
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 369
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 106,
+                        "endColumn": 38,
+                        "endOffset": 143
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 637
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 693
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 747
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 50,
+                        "endOffset": 103
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 849
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 48,
+                        "endOffset": 1676
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 900
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 949
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 48,
+                        "endOffset": 438
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 1001
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2533,
+                        "endColumn": 51,
+                        "endOffset": 2580
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 1041
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1476,
+                        "endColumn": 39,
+                        "endOffset": 1511
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 1106
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 64,
+                        "endOffset": 549
+                    }
                 }
             },
             {
@@ -215,7 +334,14 @@
                     "endOffset": 1148
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 41,
+                        "endOffset": 647
+                    }
                 }
             },
             {
@@ -227,7 +353,14 @@
                     "endOffset": 1192
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 43,
+                        "endOffset": 876
+                    }
                 }
             },
             {
@@ -239,7 +372,14 @@
                     "endOffset": 1235
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 2905,
+                        "endColumn": 42,
+                        "endOffset": 2943
+                    }
                 }
             },
             {
@@ -251,7 +391,14 @@
                     "endOffset": 1280
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 2860,
+                        "endColumn": 44,
+                        "endOffset": 2900
+                    }
                 }
             },
             {
@@ -263,7 +410,14 @@
                     "endOffset": 1335
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 2805,
+                        "endColumn": 54,
+                        "endOffset": 2855
+                    }
                 }
             },
             {
@@ -275,7 +429,14 @@
                     "endOffset": 1391
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 55,
+                        "endOffset": 605
+                    }
                 }
             },
             {
@@ -287,7 +448,14 @@
                     "endOffset": 1435
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2611,
+                        "endColumn": 43,
+                        "endOffset": 2650
+                    }
                 }
             },
             {
@@ -299,7 +467,14 @@
                     "endOffset": 1476
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 40,
+                        "endOffset": 832
+                    }
                 }
             },
             {
@@ -311,7 +486,14 @@
                     "endOffset": 1535
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 58,
+                        "endOffset": 791
+                    }
                 }
             },
             {
@@ -323,7 +505,14 @@
                     "endOffset": 1582
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 46,
+                        "endOffset": 923
+                    }
                 }
             },
             {
@@ -335,7 +524,14 @@
                     "endOffset": 1673
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2392,
+                        "endColumn": 90,
+                        "endOffset": 2478
+                    }
                 }
             },
             {
@@ -347,7 +543,14 @@
                     "endOffset": 1736
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2217,
+                        "endColumn": 62,
+                        "endOffset": 2275
+                    }
                 }
             },
             {
@@ -359,7 +562,14 @@
                     "endOffset": 1785
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1583,
+                        "endColumn": 48,
+                        "endOffset": 1627
+                    }
                 }
             },
             {
@@ -371,7 +581,14 @@
                     "endOffset": 1838
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 52,
+                        "endOffset": 208
+                    }
                 }
             },
             {
@@ -383,7 +600,14 @@
                     "endOffset": 1881
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1391,
+                        "endColumn": 42,
+                        "endOffset": 1429
+                    }
                 }
             },
             {
@@ -395,7 +619,14 @@
                     "endOffset": 1940
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2333,
+                        "endColumn": 58,
+                        "endOffset": 2387
+                    }
                 }
             },
             {
@@ -407,7 +638,14 @@
                     "endOffset": 1993
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2280,
+                        "endColumn": 52,
+                        "endOffset": 2328
+                    }
                 }
             },
             {
@@ -419,7 +657,14 @@
                     "endOffset": 2035
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1516,
+                        "endColumn": 41,
+                        "endOffset": 1553
+                    }
                 }
             },
             {
@@ -431,7 +676,14 @@
                     "endOffset": 2078
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2743,
+                        "endColumn": 42,
+                        "endOffset": 2781
+                    }
                 }
             },
             {
@@ -443,7 +695,14 @@
                     "endOffset": 2128
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2483,
+                        "endColumn": 49,
+                        "endOffset": 2528
+                    }
                 }
             },
             {
@@ -455,7 +714,14 @@
                     "endOffset": 2170
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 41,
+                        "endOffset": 689
+                    }
                 }
             },
             {
@@ -467,7 +733,14 @@
                     "endOffset": 2213
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 42,
+                        "endOffset": 732
+                    }
                 }
             },
             {
@@ -479,7 +752,14 @@
                     "endOffset": 2256
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endColumn": 42,
+                        "endOffset": 2738
+                    }
                 }
             },
             {
@@ -491,7 +771,14 @@
                     "endOffset": 2301
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 44,
+                        "endOffset": 299
+                    }
                 }
             },
             {
@@ -503,7 +790,14 @@
                     "endOffset": 2346
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 44,
+                        "endOffset": 254
+                    }
                 }
             },
             {
@@ -515,7 +809,14 @@
                     "endOffset": 2391
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 44,
+                        "endOffset": 968
+                    }
                 }
             },
             {
@@ -527,7 +828,14 @@
                     "endOffset": 2434
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 42,
+                        "endOffset": 1011
+                    }
                 }
             },
             {
@@ -539,7 +847,14 @@
                     "endOffset": 2496
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 61,
+                        "endOffset": 1098
+                    }
                 }
             },
             {
@@ -551,7 +866,14 @@
                     "endOffset": 2536
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 39,
+                        "endOffset": 1138
+                    }
                 }
             },
             {
@@ -563,7 +885,14 @@
                     "endOffset": 2579
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 42,
+                        "endOffset": 1181
+                    }
                 }
             },
             {
@@ -575,7 +904,14 @@
                     "endOffset": 2627
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 47,
+                        "endOffset": 1274
+                    }
                 }
             },
             {
@@ -587,7 +923,14 @@
                     "endOffset": 2672
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 44,
+                        "endOffset": 1226
+                    }
                 }
             },
             {
@@ -599,7 +942,14 @@
                     "endOffset": 2714
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1434,
+                        "endColumn": 41,
+                        "endOffset": 1471
+                    }
                 }
             },
             {
@@ -611,7 +961,14 @@
                     "endOffset": 2758
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1921,
+                        "endColumn": 43,
+                        "endOffset": 1960
+                    }
                 }
             },
             {
@@ -623,7 +980,14 @@
                     "endOffset": 2800
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 41,
+                        "endOffset": 1740
+                    }
                 }
             },
             {
@@ -635,7 +999,14 @@
                     "endOffset": 2845
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 44,
+                        "endOffset": 2047
+                    }
                 }
             },
             {
@@ -647,7 +1018,14 @@
                     "endOffset": 2890
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1833,
+                        "endColumn": 44,
+                        "endOffset": 1873
+                    }
                 }
             },
             {
@@ -659,7 +1037,14 @@
                     "endOffset": 2932
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2052,
+                        "endColumn": 41,
+                        "endOffset": 2089
+                    }
                 }
             },
             {
@@ -671,7 +1056,14 @@
                     "endOffset": 2976
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endColumn": 43,
+                        "endOffset": 1784
+                    }
                 }
             },
             {
@@ -683,7 +1075,14 @@
                     "endOffset": 3019
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1878,
+                        "endColumn": 42,
+                        "endOffset": 1916
+                    }
                 }
             },
             {
@@ -695,7 +1094,14 @@
                     "endOffset": 3061
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1965,
+                        "endColumn": 41,
+                        "endOffset": 2002
+                    }
                 }
             },
             {
@@ -707,7 +1113,14 @@
                     "endOffset": 3112
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2136,
+                        "endColumn": 50,
+                        "endOffset": 2182
+                    }
                 }
             },
             {
@@ -719,7 +1132,14 @@
                     "endOffset": 3156
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endColumn": 43,
+                        "endOffset": 1828
+                    }
                 }
             },
             {
@@ -731,7 +1151,14 @@
                     "endOffset": 3198
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 41,
+                        "endOffset": 2131
+                    }
                 }
             },
             {
@@ -743,7 +1170,14 @@
                     "endOffset": 3244
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 45,
+                        "endOffset": 484
+                    }
                 }
             },
             {
@@ -755,7 +1189,14 @@
                     "endOffset": 3289
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 44,
+                        "endOffset": 344
+                    }
                 }
             },
             {
@@ -767,7 +1208,14 @@
                     "endOffset": 3334
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 44,
+                        "endOffset": 389
+                    }
                 }
             },
             {
@@ -779,7 +1227,14 @@
                     "endOffset": 3379
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endColumn": 44,
+                        "endOffset": 2695
+                    }
                 }
             },
             {
@@ -791,7 +1246,14 @@
                     "endOffset": 3420
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1350,
+                        "endColumn": 40,
+                        "endOffset": 1386
+                    }
                 }
             },
             {
@@ -803,7 +1265,14 @@
                     "endOffset": 3465
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 44,
+                        "endOffset": 1345
+                    }
                 }
             },
             {
@@ -816,7 +1285,15 @@
                     "endOffset": 3756
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
                 }
             },
             {
@@ -829,7 +1306,15 @@
                     "endOffset": 3972
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 739
+                    }
                 }
             },
             {
@@ -842,7 +1327,15 @@
                     "endOffset": 4274
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2728,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3030
+                    }
                 }
             },
             {
@@ -876,7 +1369,15 @@
                     "endOffset": 4999
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1814
+                    }
                 }
             },
             {
@@ -889,7 +1390,15 @@
                     "endOffset": 5295
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1357
+                    }
                 }
             },
             {
@@ -902,7 +1411,15 @@
                     "endOffset": 5561
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1826,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2092
+                    }
                 }
             },
             {
@@ -915,7 +1432,15 @@
                     "endOffset": 5832
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2100,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 2371
+                    }
                 }
             },
             {
@@ -928,7 +1453,15 @@
                     "endOffset": 6170
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2379,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 2718
+                    }
                 }
             },
             {
@@ -941,7 +1474,15 @@
                     "endOffset": 6468
                 },
                 "from": {
-                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml"
+                    "file": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1049
+                    }
                 }
             }
         ]

@@ -196,7 +196,7 @@
 
 
     <TextView
-        android:id="@+id/cur_call"
+        android:id="@+id/cur_cal"
         android:clickable="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

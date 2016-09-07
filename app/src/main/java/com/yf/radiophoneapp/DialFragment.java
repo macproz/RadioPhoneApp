@@ -6,10 +6,12 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.ServiceConnection;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
 import android.os.RemoteException;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -41,6 +43,9 @@ public class DialFragment extends Fragment implements OnClickListener{
 
 	private void findView() {
 		mCurPhoneNo = (TextView) mRootView.findViewById(R.id.cur_phone_num);
+		for(int i=0; i < ids.length; i++){
+			mRootView.findViewById(ids[i]).setOnClickListener(this);
+		}
 		refresh();
 
 	}
@@ -74,11 +79,16 @@ public class DialFragment extends Fragment implements OnClickListener{
 				mCallPhoneNo = new StringBuilder();
 				break;
 			case R.id.cur_cal:
-//				call(mCallPhoneNo.toString());
+				callPhone(mCallPhoneNo.toString());
 				break;
 			case R.id.cur_del:
 				if(mCallPhoneNo.length() > 0){
 					mCallPhoneNo.deleteCharAt(mCallPhoneNo.length() - 1 );
+				}
+				break;
+			case R.id.cur_num_sh:
+				if(mCallPhoneNo.length() < 20){
+					mCallPhoneNo.append("#");
 				}
 				break;
 			case R.id.cur_num_st:
@@ -97,6 +107,24 @@ public class DialFragment extends Fragment implements OnClickListener{
 		}
 			updateShowPhoneNum();
 		}
+
+	private void callPhone(String phoneNo) {
+		String showNum = mCurPhoneNo.getText().toString();
+
+		if (TextUtils.isEmpty(showNum)) {
+			updateShowPhoneNum();
+		} else if (phoneNo != null && phoneNo.trim().length() > 0) {
+//					PhoneActivity.saveDialPhoneNum = mCallPhoneNo.toString();
+					mCurPhoneNo.setText("");
+					mCallPhoneNo.setLength(0);
+					Uri uri= Uri.parse("tel:"+ phoneNo);
+					Intent intent=new Intent();
+					intent.setAction(Intent.ACTION_CALL);
+					intent.setData(uri);
+					getActivity().startActivity(intent);
+
+		}
+	}
 
 	private void updateShowPhoneNum() {
 		if (mCallPhoneNo.length() >= 17) {
