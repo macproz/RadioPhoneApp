@@ -44,6 +44,14 @@
         "source": "/Users/lishanfeng/zhoujun/localproj_git/RadioPhoneApp/app/src/main/res/layout/phone_oftenuse_layout.xml"
     },
     {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/layout/phone_oftenuse_layout.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/layout/phone_oftenuse_layout.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/layout/phone_book_layout.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/layout/phone_book_layout.xml"
+    },
+    {
         "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/layout/getfmcounts.xml",
         "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/layout/getfmcounts.xml"
     },
@@ -90,6 +98,10 @@
     {
         "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/layout/bt_pair_dialog.xml",
         "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/layout/bt_pair_dialog.xml"
+    },
+    {
+        "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/layout/phone_history_layout.xml",
+        "source": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/src/main/res/layout/phone_history_layout.xml"
     },
     {
         "merged": "/Users/jun/mydata/git_local_workps/local_android_proj/RadioPhoneApp/app/build/intermediates/res/merged/debug/layout/bluetoothconnect.xml",
